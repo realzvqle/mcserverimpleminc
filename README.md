@@ -1,6 +1,6 @@
-# Minecraft Server Protocal Implementation in C 
+# Minecraft Server Protocol Implementation in C 
 
-Trying to learn the Minecraft Client-Server Protocal in C by creating my own server
+Trying to learn the Minecraft Client-Server Protocol in C by creating my own server
 software from scratch in C.
 
 
